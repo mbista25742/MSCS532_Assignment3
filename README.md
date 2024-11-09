@@ -19,13 +19,16 @@ QuickSort
 Randomized Quicksort:
 / python3 quickSort.py
 
+
 Comparative Analysis of Quicksort:
 / python3 quickSortComparison.py
+
 This script measures and prints the running times of Randomized Quicksort and Deterministic Quicksort across different data distributions and input sizes.
 
 Hash Table with Chaining
 To run the hash table implementation with chaining:
 / python3 hashWithChaining.py
+
 
 Summary of Findings
 The report.pdf in this repository provides a theoretical overview, empirical data, and detailed analysis of both the sorting algorithms and the hash table with chaining.
