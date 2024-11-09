@@ -14,19 +14,25 @@ Python 3.x
 No additional libraries are needed
 
 How to Run the Code
+
 QuickSort
 
+
 Randomized Quicksort:
+
 / python3 quickSort.py
 
 
 Comparative Analysis of Quicksort:
+
 / python3 quickSortComparison.py
 
 This script measures and prints the running times of Randomized Quicksort and Deterministic Quicksort across different data distributions and input sizes.
 
 Hash Table with Chaining
+
 To run the hash table implementation with chaining:
+
 / python3 hashWithChaining.py
 
 
